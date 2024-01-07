@@ -1,0 +1,3 @@
+my test case 3
+
+smoke regression test
